@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nzcl",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "nzcl社团eslint配置规范",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,8 @@
   "homepage": "https://github.com/WhiteYin/eslint-config-nzcl#readme",
   "peerDependencies": {
     "eslint": ">=4.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
   }
 }
